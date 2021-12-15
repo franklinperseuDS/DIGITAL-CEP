@@ -1,6 +1,6 @@
 <?php
 
-namespace Digital\DigitalCep;
+namespace PerseuTeste\DigitalCep;
 
 class Search{
     private $url = "https://viacep.com.br/ws/";

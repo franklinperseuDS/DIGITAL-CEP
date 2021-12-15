@@ -2,7 +2,7 @@
 
 require_once "vendor/autoload.php";
 
-use Digital\DigitalCep\Search;
+use PerseuTeste\DigitalCep\Search;
 
 $busca = new Search;
 

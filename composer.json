@@ -2,7 +2,7 @@
     "name": "perseuteste/digital-cep",
     "autoload": {
         "psr-4": {
-            "Digital\\DigitalCep\\": "src/"
+            "PerseuTeste\\DigitalCep\\": "src/"
         }
     },
     "authors": [{
